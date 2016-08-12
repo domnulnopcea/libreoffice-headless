@@ -1,6 +1,6 @@
 ##Build Image
 
-sudo docker build -t libreoffice-headless .
+`sudo docker build -t libreoffice-headless .`
 
 ##Convert office documents to pdf files
 
